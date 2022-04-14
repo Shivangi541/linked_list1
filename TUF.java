@@ -1,4 +1,5 @@
 //import java.util.Scanner;
+// intersection of two linked list
 class Node {
     int num;
     Node next;
